@@ -1,6 +1,16 @@
 # dotfiles
 
 
+## Common
+
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install mysql gradle maven node
+brew install caskroom/cask/brew-cask
+brew cask install google-chrome java intellij-idea shiftit
+
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
 
 
 ## iterm2
