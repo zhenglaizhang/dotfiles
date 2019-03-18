@@ -19,3 +19,16 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 brew cask install iterm2
 ```
 - `Preferences` -> `Profiles` -> `Change Font`
+
+
+
+
+## Oh My Zsh
+
+```
+➜  ~ hsi whereis
+ 1185  2019-02-13 23:36  whereis ls
+ 1186  2019-02-13 23:38  whereis git
+ 1187  2019-02-13 23:38  whereis hub
+ 1341  2019-03-18 19:39  whereis java
+ ```
