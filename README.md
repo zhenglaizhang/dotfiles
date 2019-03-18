@@ -8,4 +8,4 @@
 ```
 brew cask install iterm2
 ```
-- [ ] `Preferences` -> `Profiles` -> `Default Font`
+- `Preferences` -> `Profiles` -> `Change Font`
