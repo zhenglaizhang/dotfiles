@@ -9,6 +9,10 @@ brew install mysql gradle maven node
 brew install caskroom/cask/brew-cask
 brew cask install google-chrome java intellij-idea shiftit appcleaner sourcetree baidunetdisk google-chrome oracle-jdk typora betterzip iina postman visual-studio-code cheatsheet qq visualvm retinizer jetbrains-toolbox eudic shiftit zoom font-fira-code snipaste
 
+brew tap homebrew/cask-versions
+brew cask install java8
+brew install jenv
+
 # fix msyql 8.0 crashing
 brew cask install homebrew/cask-versions/sequel-pro-nightly 
 # brew cask install mat
